@@ -12,14 +12,14 @@ Ky është projekti im i parë i realizuar me Python, ku kam filluar të mësoj 
 
 Qëllimi im ishte të:
 
-- Mësoj si të lexoj të dhëna nga një **skedar CSV**
+- Mësoj si të lexoj të dhëna nga një **file CSV**
 - Përdor **filtrim**, **grupim**, dhe **rendisje (sorting)** të të dhënave
 - Krijoj **grafikë vizualë** për të paraqitur statistikat e ekipeve të NBA-së
 - Eksploroj statistika të ndryshme të ekipeve nga sezoni 1997 deri 2022
 
 ---
 
-## 📁 Skedari me të dhënat
+## 📁 Folderi me të dhënat
 
 Kam përdorur një csv file me emrin `NBA_Team_Stats2.csv`, i cili përmban statistika për ekipet e NBA-së për disa sezone të ndryshme. Në këtë skedar gjenden kolona si:
 
